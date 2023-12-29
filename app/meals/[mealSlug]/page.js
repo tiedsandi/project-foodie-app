@@ -3,8 +3,8 @@ import React from 'react';
 const Meal = ({ params }) => {
   return (
     <div>
-      <h1>Meal</h1>
-      <p>{params.slug}</p>
+      <h1>Meal detail</h1>
+      <p>{params.mealSlug}</p>
     </div>
   );
 };
