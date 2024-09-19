@@ -10,7 +10,7 @@ NetLevel Food adalah sebuah platform digital yang menyajikan beragam resep makan
 
 ## Demo
 
-https://bromo-landing-page.netlify.app
+https://nextlevel-recipe.netlify.app/
 
 ## Screenshots
 
