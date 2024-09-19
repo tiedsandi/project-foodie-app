@@ -1,6 +1,6 @@
 # NextLevel Food
 
-NetLevel Food adalah sebuah platform digital yang menyajikan beragam resep makanan yang dapat diakses oleh pengguna secara mudah dan cepat. Website ini tidak hanya memungkinkan pengguna untuk menemukan resep-resep inspiratif, tetapi juga memberikan kesempatan bagi pengguna untuk berbagi resep baru mereka sendiri. Dengan fitur menambahkan resep baru dari pengguna, NetLevel Food menciptakan komunitas yang aktif dan berbagi dalam dunia kuliner secara online. Selamat berkreasi dan berbagi pengalaman kuliner di NetLevel Food!
+NetLevel Food is a digital platform offering a wide variety of recipes that users can access quickly and easily. The website not only helps users discover inspiring recipes but also allows them to share their own creations. With its user-generated recipe feature, NetLevel Food fosters an active online culinary community. Enjoy creating and sharing your culinary experiences with NetLevel Food!
 
 ## Tech Stack
 
