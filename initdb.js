@@ -6,7 +6,8 @@ const dummyMeals = [
     title: 'Juicy Cheese Burger',
     slug: 'juicy-cheese-burger',
     image: '/images/burger.jpg',
-    summary: 'A mouth-watering burger with a juicy beef patty and melted cheese, served in a soft bun.',
+    summary:
+      'A mouth-watering burger with a juicy beef patty and melted cheese, served in a soft bun.',
     instructions: `
       1. Prepare the patty:
          Mix 200g of ground beef with salt and pepper. Form into a patty.
@@ -44,8 +45,8 @@ const dummyMeals = [
       5. Serve:
          Enjoy this creamy curry with rice or bread.
     `,
-    creator: 'Max Schwarz',
-    creator_email: 'max@example.com',
+    creator: 'Sandi',
+    creator_email: 'sandi@example.com',
   },
   {
     title: 'Homemade Dumplings',
@@ -65,8 +66,8 @@ const dummyMeals = [
       4. Serve:
          Enjoy these dumplings hot, with a dipping sauce of your choice.
     `,
-    creator: 'Emily Chen',
-    creator_email: 'emilychen@example.com',
+    creator: 'Joko Anwar',
+    creator_email: 'joko.anwar@example.com',
   },
   {
     title: 'Classic Mac n Cheese',
@@ -89,8 +90,8 @@ const dummyMeals = [
       5. Serve:
          Serve hot, garnished with parsley if desired.
     `,
-    creator: 'Laura Smith',
-    creator_email: 'laurasmith@example.com',
+    creator: 'Cinta Laura',
+    creator_email: 'cinta.laura@example.com',
   },
   {
     title: 'Authentic Pizza',
@@ -110,8 +111,8 @@ const dummyMeals = [
       4. Serve:
          Slice hot and enjoy with a sprinkle of basil leaves.
     `,
-    creator: 'Mario Rossi',
-    creator_email: 'mariorossi@example.com',
+    creator: 'Ronaldo',
+    creator_email: 'ronaldo@example.com',
   },
   {
     title: 'Wiener Schnitzel',
@@ -131,14 +132,15 @@ const dummyMeals = [
       4. Serve:
       Serve hot with a slice of lemon and a side of potato salad or greens.
  `,
-    creator: 'Franz Huber',
-    creator_email: 'franzhuber@example.com',
+    creator: 'Inyourdream',
+    creator_email: 'iyd@example.com',
   },
   {
     title: 'Fresh Tomato Salad',
     slug: 'fresh-tomato-salad',
     image: '/images/tomato-salad.jpg',
-    summary: 'A light and refreshing salad with ripe tomatoes, fresh basil, and a tangy vinaigrette.',
+    summary:
+      'A light and refreshing salad with ripe tomatoes, fresh basil, and a tangy vinaigrette.',
     instructions: `
       1. Prepare the tomatoes:
         Slice fresh tomatoes and arrange them on a plate.
@@ -152,8 +154,8 @@ const dummyMeals = [
       4. Serve:
          Enjoy this simple, flavorful salad as a side dish or light meal.
     `,
-    creator: 'Sophia Green',
-    creator_email: 'sophiagreen@example.com',
+    creator: 'Sophia',
+    creator_email: 'sophia10@example.com',
   },
 ];
 
