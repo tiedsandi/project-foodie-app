@@ -1,6 +1,6 @@
 # NextLevel Food
 
-NetLevel Food is a digital platform offering a wide variety of recipes that users can access quickly and easily. The website not only helps users discover inspiring recipes but also allows them to share their own creations. With its user-generated recipe feature, NetLevel Food fosters an active online culinary community. Enjoy creating and sharing your culinary experiences with NetLevel Food!
+NextLevel Food is a digital platform offering a wide variety of recipes that users can access quickly and easily. The website not only helps users discover inspiring recipes but also allows them to share their own creations. With its user-generated recipe feature, NetLevel Food fosters an active online culinary community. Enjoy creating and sharing your culinary experiences with NetLevel Food!
 
 ## Tech Stack
 
