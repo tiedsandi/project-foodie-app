@@ -34,7 +34,7 @@ https://nextlevel-recipe.netlify.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/tiedsandi/project-foodie-app
+  git clone https://github.com/tiedsandi/project_foodie-app
 ```
 
 Go to the project directory
